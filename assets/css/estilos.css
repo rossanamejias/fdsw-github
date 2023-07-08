@@ -16,8 +16,12 @@ body {
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
+}
+
+.iguana{
+  background-color: black;
 }
 
 /* Contacto */
